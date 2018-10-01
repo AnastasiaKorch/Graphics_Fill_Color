@@ -320,9 +320,10 @@ namespace testProject1
             {
                 bool flag = true;
                 int i = 0;
-                int count = 0;
+                
                 while (l.Count() > 0)
                 {
+                    //int count = 0;
                     flag = true;
                     int k = l[i].point.Y;
                     List<BorderPoint> A = l.FindAll(x => x.point.Y == k);
@@ -334,17 +335,17 @@ namespace testProject1
                         {
                             if ((A[j + 1].point.X - A[j].point.X) > 1)
                             {
-                                if (count >= 100)
+                                /*if (count >= 100)
                                 {
                                     flag = !flag;
                                     count = 0;
-                                }
+                                }*/
                                 if (flag)
                                     g.DrawLine(new Pen(fillingColor, 1), A[j].point.X + 1, k, A[j + 1].point.X - 1, k);
                                 flag = !flag;
                             }
-                            else
-                                count++;
+                            /*else
+                                count++;*/
                             
                         }
                     }
