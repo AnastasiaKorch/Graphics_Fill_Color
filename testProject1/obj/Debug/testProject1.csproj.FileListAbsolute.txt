@@ -1,0 +1,64 @@
+c:\users\student\documents\visual studio 2013\Projects\testProject1\testProject1\bin\Debug\testProject1.exe.config
+C:\Users\student\Documents\Visual Studio 2013\Projects\testProject1\testProject1\bin\Debug\testProject1.exe
+C:\Users\student\Documents\Visual Studio 2013\Projects\testProject1\testProject1\bin\Debug\testProject1.pdb
+C:\Users\student\Documents\Visual Studio 2013\Projects\testProject1\testProject1\obj\Debug\testProject1.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2013\Projects\testProject1\testProject1\obj\Debug\testProject1.Form1.resources
+C:\Users\student\Documents\Visual Studio 2013\Projects\testProject1\testProject1\obj\Debug\testProject1.Properties.Resources.resources
+C:\Users\student\Documents\Visual Studio 2013\Projects\testProject1\testProject1\obj\Debug\testProject1.csproj.GenerateResource.Cache
+C:\Users\student\Documents\Visual Studio 2013\Projects\testProject1\testProject1\obj\Debug\testProject1.exe
+C:\Users\student\Documents\Visual Studio 2013\Projects\testProject1\testProject1\obj\Debug\testProject1.pdb
+C:\Users\Acer\Desktop\testProject1\testProject1\bin\Debug\testProject1.exe.config
+C:\Users\Acer\Desktop\testProject1\testProject1\obj\Debug\testProject1.exe
+C:\Users\Acer\Desktop\testProject1\testProject1\obj\Debug\testProject1.pdb
+C:\Users\Acer\Desktop\testProject1\testProject1\bin\Debug\testProject1.exe
+C:\Users\Acer\Desktop\testProject1\testProject1\bin\Debug\testProject1.pdb
+C:\Users\Acer\Desktop\testProject1\testProject1\obj\Debug\testProject1.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\testProject1\testProject1\obj\Debug\testProject1.Form1.resources
+C:\Users\Acer\Desktop\testProject1\testProject1\obj\Debug\testProject1.Properties.Resources.resources
+C:\Users\Acer\Desktop\testProject1\testProject1\obj\Debug\testProject1.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\Paint\testProject1\bin\Debug\testProject1.exe.config
+C:\Users\student\Desktop\Paint\testProject1\obj\Debug\testProject1.exe
+C:\Users\student\Desktop\Paint\testProject1\obj\Debug\testProject1.pdb
+C:\Users\student\Desktop\Lesson 1-2 Paint\testProject1\bin\Debug\testProject1.exe.config
+C:\Users\student\Desktop\Lesson 1-2 Paint\testProject1\obj\Debug\testProject1.exe
+C:\Users\student\Desktop\Lesson 1-2 Paint\testProject1\obj\Debug\testProject1.pdb
+C:\Users\student\Desktop\Lesson 1-2 Paint\testProject1\bin\Debug\testProject1.exe
+C:\Users\student\Desktop\Lesson 1-2 Paint\testProject1\bin\Debug\testProject1.pdb
+C:\Users\student\Desktop\Lesson 1-2 Paint\testProject1\obj\Debug\testProject1.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Lesson 1-2 Paint\testProject1\obj\Debug\testProject1.Form1.resources
+C:\Users\student\Desktop\Lesson 1-2 Paint\testProject1\obj\Debug\testProject1.Properties.Resources.resources
+C:\Users\student\Desktop\Lesson 1-2 Paint\testProject1\obj\Debug\testProject1.csproj.GenerateResource.Cache
+C:\программирование\четвертый курс\комп графика\Lesson 1-2 Paint\testProject1\bin\Debug\testProject1.exe.config
+C:\программирование\четвертый курс\комп графика\Lesson 1-2 Paint\testProject1\obj\Debug\testProject1.exe
+C:\программирование\четвертый курс\комп графика\Lesson 1-2 Paint\testProject1\obj\Debug\testProject1.pdb
+C:\программирование\четвертый курс\комп графика\Lesson 1-2 Paint\testProject1\bin\Debug\testProject1.exe
+C:\программирование\четвертый курс\комп графика\Lesson 1-2 Paint\testProject1\bin\Debug\testProject1.pdb
+C:\программирование\четвертый курс\комп графика\Lesson 1-2 Paint\testProject1\obj\Debug\testProject1.csprojResolveAssemblyReference.cache
+C:\программирование\четвертый курс\комп графика\Lesson 1-2 Paint\testProject1\obj\Debug\testProject1.Form1.resources
+C:\программирование\четвертый курс\комп графика\Lesson 1-2 Paint\testProject1\obj\Debug\testProject1.Properties.Resources.resources
+C:\программирование\четвертый курс\комп графика\Lesson 1-2 Paint\testProject1\obj\Debug\testProject1.csproj.GenerateResource.Cache
+C:\программирование\четвертый курс\комп графика\Lesson 1-2 Paint\testProject1\obj\Debug\testProject1.g.resources
+C:\программирование\4 курс\комп графика\Lesson 1-2 Paint\testProject1\bin\Debug\testProject1.exe.config
+C:\программирование\4 курс\комп графика\Lesson 1-2 Paint\testProject1\obj\Debug\testProject1.exe
+C:\программирование\4 курс\комп графика\Lesson 1-2 Paint\testProject1\obj\Debug\testProject1.pdb
+C:\программирование\4 курс\комп графика\Lesson 1-2 Paint\testProject1\bin\Debug\testProject1.exe
+C:\программирование\4 курс\комп графика\Lesson 1-2 Paint\testProject1\bin\Debug\testProject1.pdb
+C:\программирование\4 курс\комп графика\Lesson 1-2 Paint\testProject1\obj\Debug\testProject1.csprojResolveAssemblyReference.cache
+C:\программирование\4 курс\комп графика\Lesson 1-2 Paint\testProject1\obj\Debug\testProject1.g.resources
+C:\программирование\4 курс\комп графика\Lesson 1-2 Paint\testProject1\obj\Debug\testProject1.Form1.resources
+C:\программирование\4 курс\комп графика\Lesson 1-2 Paint\testProject1\obj\Debug\testProject1.Properties.Resources.resources
+C:\программирование\4 курс\комп графика\Lesson 1-2 Paint\testProject1\obj\Debug\testProject1.csproj.GenerateResource.Cache
+C:\Users\User\OneDrive\Documents\Комп Графика\комп графика\Лаба 1-2 Paint\testProject1\bin\Debug\testProject1.exe.config
+C:\Users\User\OneDrive\Documents\Комп Графика\комп графика\Лаба 1-2 Paint\testProject1\obj\Debug\testProject1.exe
+C:\Users\User\OneDrive\Documents\Комп Графика\комп графика\Лаба 1-2 Paint\testProject1\obj\Debug\testProject1.pdb
+C:\Users\User\OneDrive\Documents\Комп Графика\комп графика\Лаба 1-2 Paint\testProject1\bin\Debug\testProject1.exe
+C:\Users\User\OneDrive\Documents\Комп Графика\комп графика\Лаба 1-2 Paint\testProject1\bin\Debug\testProject1.pdb
+C:\Users\User\OneDrive\Documents\Комп Графика\комп графика\Лаба 1-2 Paint\testProject1\obj\Debug\testProject1.csprojResolveAssemblyReference.cache
+C:\Users\User\OneDrive\Documents\Комп Графика\комп графика\Лаба 1-2 Paint\testProject1\obj\Debug\testProject1.g.resources
+C:\Users\User\OneDrive\Documents\Комп Графика\комп графика\Лаба 1-2 Paint\testProject1\obj\Debug\testProject1.Form1.resources
+C:\Users\User\OneDrive\Documents\Комп Графика\комп графика\Лаба 1-2 Paint\testProject1\obj\Debug\testProject1.Properties.Resources.resources
+C:\Users\User\OneDrive\Documents\Комп Графика\комп графика\Лаба 1-2 Paint\testProject1\obj\Debug\testProject1.csproj.GenerateResource.Cache
+C:\Users\User\OneDrive\Documents\Комп Графика\комп графика\Лаба 2(можно взять из нее все для лабы 1 задания 2-4)\testProject1\bin\Debug\testProject1.exe.config
+C:\Users\User\OneDrive\Documents\Комп Графика\комп графика\Лаба 2(можно взять из нее все для лабы 1 задания 2-4)\testProject1\obj\Debug\testProject1.exe
+C:\Users\User\OneDrive\Documents\Комп Графика\комп графика\Лаба 2(можно взять из нее все для лабы 1 задания 2-4)\testProject1\obj\Debug\testProject1.pdb
+C:\Users\Никита\Desktop\Лаба 2(можно взять из нее все для лабы 1 задания 2)\testProject1\obj\Debug\testProject1.pdb

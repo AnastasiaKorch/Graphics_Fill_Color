@@ -1,0 +1,22 @@
+C:\Users\Никита\Desktop\Лаба 2(можно взять из нее все для лабы 1 задания 2)\testProject1\obj\Debug\testProject1.pdb
+D:\Пингвин\Комп Графика\Компьютерная графика\Лаба 2\testProject1\obj\Debug\testProject1.pdb
+C:\Users\1\Documents\Графика\пингвин\Комп Графика\Компьютерная графика\Лаба 2\testProject1\obj\Debug\testProject1.pdb
+C:\Users\1\Documents\Графика\пингвин\Комп Графика\Компьютерная графика\Лаба 2\testProject1\bin\Debug\testProject1.exe.config
+C:\Users\1\Documents\Графика\пингвин\Комп Графика\Компьютерная графика\Лаба 2\testProject1\bin\Debug\testProject1.exe
+C:\Users\1\Documents\Графика\пингвин\Комп Графика\Компьютерная графика\Лаба 2\testProject1\bin\Debug\testProject1.pdb
+C:\Users\1\Documents\Графика\пингвин\Комп Графика\Компьютерная графика\Лаба 2\testProject1\obj\Debug\Заливка.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\Графика\пингвин\Комп Графика\Компьютерная графика\Лаба 2\testProject1\obj\Debug\testProject1.g.resources
+C:\Users\1\Documents\Графика\пингвин\Комп Графика\Компьютерная графика\Лаба 2\testProject1\obj\Debug\testProject1.Form1.resources
+C:\Users\1\Documents\Графика\пингвин\Комп Графика\Компьютерная графика\Лаба 2\testProject1\obj\Debug\testProject1.Properties.Resources.resources
+C:\Users\1\Documents\Графика\пингвин\Комп Графика\Компьютерная графика\Лаба 2\testProject1\obj\Debug\Заливка.csproj.GenerateResource.Cache
+C:\Users\1\Documents\Графика\пингвин\Комп Графика\Компьютерная графика\Лаба 2\testProject1\obj\Debug\testProject1.exe
+C:\Users\1\Documents\Graphics_Fill_Color\testProject1\bin\Debug\testProject1.exe.config
+C:\Users\1\Documents\Graphics_Fill_Color\testProject1\obj\Debug\testProject1.exe
+C:\Users\1\Documents\Graphics_Fill_Color\testProject1\obj\Debug\testProject1.pdb
+C:\Users\1\Documents\Graphics_Fill_Color\testProject1\bin\Debug\testProject1.exe
+C:\Users\1\Documents\Graphics_Fill_Color\testProject1\bin\Debug\testProject1.pdb
+C:\Users\1\Documents\Graphics_Fill_Color\testProject1\obj\Debug\Заливка.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\Graphics_Fill_Color\testProject1\obj\Debug\testProject1.g.resources
+C:\Users\1\Documents\Graphics_Fill_Color\testProject1\obj\Debug\testProject1.Form1.resources
+C:\Users\1\Documents\Graphics_Fill_Color\testProject1\obj\Debug\testProject1.Properties.Resources.resources
+C:\Users\1\Documents\Graphics_Fill_Color\testProject1\obj\Debug\Заливка.csproj.GenerateResource.Cache
