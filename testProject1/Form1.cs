@@ -323,7 +323,6 @@ namespace testProject1
                 
                 while (l.Count() > 0)
                 {
-                    //int count = 0;
                     flag = true;
                     int k = l[i].point.Y;
                     List<BorderPoint> A = l.FindAll(x => x.point.Y == k);
@@ -331,25 +330,49 @@ namespace testProject1
                     A.Sort(CompareBorderPoints);
                     if (A.Count() > 1)
                     {
+                        int pred = -1;
+                        List<int> xx = new List<int>();
+
                         for (int j = 0; j < A.Count() - 1; j++)
                         {
                             if ((A[j + 1].point.X - A[j].point.X) > 1)
                             {
-                                /*if (count >= 100)
+                                if (pred != -1)
                                 {
-                                    flag = !flag;
-                                    count = 0;
-                                }*/
+                                    if ((A[j].point.X - pred) > 5)
+                                        flag = true;
+                                }
+
+                           
+
                                 if (flag)
-                                    g.DrawLine(new Pen(fillingColor, 1), A[j].point.X + 1, k, A[j + 1].point.X - 1, k);
+                                {
+                                   /*if ((i == 0) && (bitmap.GetPixel(A[j].point.X, k - 1) != Color.Red))
+                                        flag = false;
+                                    else*/
+                                        g.DrawLine(new Pen(fillingColor, 1), A[j].point.X + 1, k, A[j + 1].point.X - 1, k);
+                                }
+                                   
+                               
                                 flag = !flag;
+                                pred = A[j + 1].point.X;
                             }
-                            /*else
-                                count++;*/
+                            
                             
                         }
+
+                        /*xx.Sort();
+                        if (xx.Count() % 2 == 0)
+                            for (int j = 0; j < xx.Count() - 1; j+=2)
+                                g.DrawLine(new Pen(fillingColor, 1), xx[j] + 1, k, xx[j + 1] - 1, k);
+                        else
+                        {
+                            for (int j = 0; j < xx.Count() - 1; j ++)
+                                g.DrawLine(new Pen(fillingColor, 1), xx[j] + 1, k, xx[j + 1] - 1, k);
+                        }*/
+
                     }
-                    
+
                 }
 
             }
